@@ -11,6 +11,7 @@ Recent Calls & SMS organizer:   ★Tags, ✓→Tasker, Appointments,  ߉
 <br>
 <a target="_blank" href="https://codepen.io/qp5/project/full/ZmBrJo">Style windows 10 /11 </a>
 <br>
-<a target="_blank" href="https://bowhip.org/about-me.htm">About me</a><br><br>
+<a target="_blank" href="https://bowhip.org/about-me.htm">About me</a><br>
 <br>
 📫 I'm available by email if you like chat.
+ Your <a href="mailto: support@bowhip.org">feedback</a> welcome.
