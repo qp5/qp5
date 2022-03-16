@@ -13,5 +13,4 @@ Recent Calls & SMS organizer:   ★Tags, ✓→Tasker, Appointments,  ߉
 <br>
 <a target="_blank" href="https://bowhip.org/about-me.htm">About me</a><br>
 <br>
-📫 I'm available by email if you like chat.<br>
- Your <a href="mailto: support@bowhip.org">feedback</a> welcome.
+📫 I'm available by <a href="mailto: support@bowhip.org">email</a> and phone.
