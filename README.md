@@ -1,5 +1,5 @@
 <big><b>Hi I'm qp5 </big></b></br>
- Below are links to my active projects 👋<br>
+Here are links to my active projects 👋<br>
 
 <a href="https://github.com/qp5/FONT">Sans FONT typeface</a> ‒ Github Font project. <a href="mailto: support@bowhip.org">Join➚</a> 
 
