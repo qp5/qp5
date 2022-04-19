@@ -10,4 +10,4 @@ Here below are links to my active projects<br>
 <br>
  ● <a target="_blank" href="https://bowhip.org/about-me.htm">About me</a><br>
 <br>
-📫 I'm available by <a href="mailto: support@bowhip.org">email</a> and phone.
+📫 I'm available with <a href="mailto: support@bowhip.org">email</a> and phone.
