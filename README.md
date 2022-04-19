@@ -3,7 +3,7 @@ Here below are links to my active projects<br>
 
  ● <a href="https://github.com/qp5/FONT">Sans FONT typeface</a> ‒ Github Font project. <a href="mailto: support@bowhip.org">Join➚</a> 
 
- ● <a href="https://github.com/qp5/FONT">bowHip Mobile App</a><br> ‒ Github<span style="font-family:font-size: 18px;">&nbsp;_</span>
+ ● <a href="https://github.com/qp5/FONT">bowHip Mobile App</a> ‒ <span style="font-family:font-size: 18px;">&nbsp;_</span>
 Recent Calls & SMS organizer:   ★Tags, ✓→Tasker, Appointments,  ߉Maps, ⇄Team Collab... 
 <br>
   
