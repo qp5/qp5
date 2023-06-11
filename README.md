@@ -1,7 +1,7 @@
 <big><b>Hi I'm John 'qp5' </big></b></br>
 Here are links to my active projects<br>
 
- ● <a href="https://github.com/qp5/FONT">Sans FONT typeface</a> ‒ Github Font project. <a href="mailto: support@bowhip.org">Join➚</a> <br>
+ ● <a href="https://github.com/qp5/FONT">Sans FONT typeface</a> ‒ Github Font project. To help with select: <a href="mailto: support@bowhip.org">Join project➚</a> <br>
  ● <a href="https://github.com/qp5/FONT">bowHip Mobile App</a> ‒ Recent Calls & SMS organizer:   ★Tags, ✓→Tasker, Appointments,  ߉Maps, ⇄Team Collab... 
 <br>
  ● <a target="_blank" href="https://codepen.io/qp5/full/WNGbLBy">Style your Mobile device</a>
