@@ -1,6 +1,6 @@
 
 
-List of my active projects<br>
+Active projects list<br>
 
  ● <a style="text-decoration: none" href="https://github.com/qp5/FONT">Sans FONT typeface</a> ‒ Font project. To help out select: <a href="mailto: support@bowhip.org">Join project➚</a><br>
  ● <a style="text-decoration: none" href="https://github.com/qp5/bowHip_app">bowHip Mobile App</a> ‒ Recent Calls & SMS organizer: ★Tags, ✓→Tasker, Appointments,  ߉Maps, ⇄Team Collab...<br>
