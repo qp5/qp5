@@ -7,6 +7,7 @@ Here are links to my active projects<br>
 <br>
  ● <a target="_blank" href="https://codepen.io/qp5/project/full/ZmBrJo">Style windows 10 /11 </a>
 <br>
- ● <a target="_blank" href="https://bowhip.org/about-me.htm">About me</a><br>
+ ● <a target="_blank" href="https://bowhip.org/about-me">About me</a> | <a target="_blank" href="https://bowhip.org/about-me">More about me</a><br>
 <br>
 📫  <a href="mailto: support@bowhip.org">email</a>
+https://github.com/qp5/About-me/blob/main/README.md
