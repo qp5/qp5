@@ -1,5 +1,17 @@
+css
+a:link {
+  text-decoration: none;
+}
 
-a {
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
   text-decoration: none;
 }
 
